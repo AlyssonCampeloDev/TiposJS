@@ -1,0 +1,9 @@
+Cite três exemplos de dados utilizados no seu cotidiano:
+1- Semáforo (Boolean)
+2 - Calculadora (Number)
+3- Placas de trânsito com informações para chegar ao destino (String)
+
+ Pesquise três outros exemplos em que dados na internet são usados
+1- Criação de usuário em redes sociais (Number, String e Boolean )
+2- Página de pagamento de e-commerce (Number e String)
+3- Dépositos e saques em aplicativos de banco (Number e Boolean)
